@@ -1,0 +1,17 @@
+# ninja log v5
+1	632	1694097022987135624	build.ninja	32da625171a2ac00
+2476	3212	1694096649940344637	CMakeFiles/Course1.dir/week4/sorting.cpp.o	811f3e15da0a4571
+0	2454	1694096649172078272	CMakeFiles/Course1.dir/week1/APlusB.cpp.o	6b4a4572f2b146fe
+2	2468	1694096649182871868	CMakeFiles/Course1.dir/week2/gcd.cpp.o	84c432cb835d9dfc
+2466	3120	1694096649839481187	CMakeFiles/Course1.dir/week4/binary_search.cpp.o	da0c9e669c1c4417
+1	2476	1694096649204957179	CMakeFiles/Course1.dir/week1/MaxPairwiseProduct.cpp.o	ef64338586e10ba8
+2	2466	1694096649180657849	CMakeFiles/Course1.dir/week2/fibonacci_sum_last_digit.cpp.o	2ba21c4be7c4ffc
+3	2469	1694096649175690526	CMakeFiles/Course1.dir/week2/lcm.cpp.o	38b140c13b7bf93c
+1	2484	1694096649212954179	CMakeFiles/Course1.dir/week2/fibonacci.cpp.o	21cfddcda127aa79
+2465	3260	1694096649988421635	CMakeFiles/Course1.dir/week3/fractional_knapsack.cpp.o	a0d4ff034081b021
+2462	3264	1694096649993648081	CMakeFiles/Course1.dir/week3/change.cpp.o	ccf03a2c3faf8faf
+2468	3136	1694096649863959224	CMakeFiles/Course1.dir/week4/inversions.cpp.o	7f838f05b65577ad
+2	2465	1694096649179632277	CMakeFiles/Course1.dir/week2/fibonacci_last_digit.cpp.o	aa8dc9e3bcf89d8d
+2460	3091	1694096649816373928	CMakeFiles/Course1.dir/week3/car_fueling.cpp.o	d995752a62811a0a
+2	2462	1694096649188718765	CMakeFiles/Course1.dir/week2/fibonacci_huge.cpp.o	3b41db8fe125ce01
+2469	3163	1694096649891305855	CMakeFiles/Course1.dir/week4/majority_element.cpp.o	9a5875600c1c0337

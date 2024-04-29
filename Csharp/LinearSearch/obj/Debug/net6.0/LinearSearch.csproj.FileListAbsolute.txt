@@ -1,0 +1,15 @@
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/bin/Debug/net6.0/LinearSearch
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/bin/Debug/net6.0/LinearSearch.deps.json
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/bin/Debug/net6.0/LinearSearch.runtimeconfig.json
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/bin/Debug/net6.0/LinearSearch.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/bin/Debug/net6.0/LinearSearch.pdb
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.csproj.AssemblyReference.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.AssemblyInfoInputs.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.AssemblyInfo.cs
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.csproj.CoreCompileInputs.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/refint/LinearSearch.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.pdb
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/LinearSearch.genruntimeconfig.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/LinearSearch/LinearSearch/obj/Debug/net6.0/ref/LinearSearch.dll

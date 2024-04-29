@@ -1,0 +1,15 @@
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/bin/Debug/net6.0/ElementsInCommon
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/bin/Debug/net6.0/ElementsInCommon.deps.json
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/bin/Debug/net6.0/ElementsInCommon.runtimeconfig.json
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/bin/Debug/net6.0/ElementsInCommon.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/bin/Debug/net6.0/ElementsInCommon.pdb
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.csproj.AssemblyReference.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.AssemblyInfoInputs.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.AssemblyInfo.cs
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.csproj.CoreCompileInputs.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/refint/ElementsInCommon.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.pdb
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ElementsInCommon.genruntimeconfig.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/ElementsInCommon/ElementsInCommon/obj/Debug/net6.0/ref/ElementsInCommon.dll

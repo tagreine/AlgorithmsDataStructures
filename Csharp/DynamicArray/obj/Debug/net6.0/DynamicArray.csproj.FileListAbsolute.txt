@@ -1,0 +1,15 @@
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/bin/Debug/net6.0/DynamicArray
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/bin/Debug/net6.0/DynamicArray.deps.json
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/bin/Debug/net6.0/DynamicArray.runtimeconfig.json
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/bin/Debug/net6.0/DynamicArray.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/bin/Debug/net6.0/DynamicArray.pdb
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.csproj.AssemblyReference.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.AssemblyInfoInputs.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.AssemblyInfo.cs
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.csproj.CoreCompileInputs.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/refint/DynamicArray.dll
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.pdb
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/DynamicArray.genruntimeconfig.cache
+/Users/thomas.greiner/Library/CloudStorage/OneDrive-Accenture/Certifications/AlgorithmsDataStruct/DynamicArray/DynamicArray/obj/Debug/net6.0/ref/DynamicArray.dll
